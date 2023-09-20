@@ -1,0 +1,8 @@
+C:\Users\ucenik\Documents\GabrielCondricNIOP\Re-PrvaWindowsAplikacija\bin\Debug\Re-PrvaWindowsAplikacija.exe.config
+C:\Users\ucenik\Documents\GabrielCondricNIOP\Re-PrvaWindowsAplikacija\bin\Debug\Re-PrvaWindowsAplikacija.exe
+C:\Users\ucenik\Documents\GabrielCondricNIOP\Re-PrvaWindowsAplikacija\bin\Debug\Re-PrvaWindowsAplikacija.pdb
+C:\Users\ucenik\Documents\GabrielCondricNIOP\Re-PrvaWindowsAplikacija\obj\Debug\Re-PrvaWindowsAplikacija.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\GabrielCondricNIOP\Re-PrvaWindowsAplikacija\obj\Debug\Re-PrvaWindowsAplikacija.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\GabrielCondricNIOP\Re-PrvaWindowsAplikacija\obj\Debug\Re-PrvaWindowsAplikacija.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\GabrielCondricNIOP\Re-PrvaWindowsAplikacija\obj\Debug\Re-PrvaWindowsAplikacija.exe
+C:\Users\ucenik\Documents\GabrielCondricNIOP\Re-PrvaWindowsAplikacija\obj\Debug\Re-PrvaWindowsAplikacija.pdb
